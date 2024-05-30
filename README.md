@@ -1,0 +1,2 @@
+# RetryWS
+Retry failed ws
